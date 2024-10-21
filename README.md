@@ -1,6 +1,9 @@
 # 💫 About Me:
-👤 Name: Sivert Husebø<br>🎂 Age: 24<br>📍 Location: Grimstad, Norway<br>🎓 Education:<br>Master's in Artificial Intelligence at University of Agder<br>Bachelor's in Computer Engineering (Completed Spring [2024])<br>💼 Expertise: Backend Development<br>🛠️ Skills: Software Development, Algorithms<br>🐍 Favorite Languages: Python, C#<br>🚀 Aspiration: Contribute to the development of innovative solutions in artificial intelligence<br>🔍 Current Status: Looking for summer job opportunities<br>📞 Phone: +47 468 552 44<br>✉️ Email: sivertespelandhusebo@gmail.com<br>🌟 Strengths:<br>Solution-oriented approach to technical challenges<br>Clear and effective communication<br>🤝 Goals:<br>Work in environments where trust and responsibility are fundamental<br>Engage in collaborative decision-making<br>Learn from industry leaders to enhance understanding of user-system interactions and customer service excellence
-
+🎓 **Master's Student in Artificial Intelligence** at University of Agder<br>
+💻 **Backend Developer** specializing in Python and C#<br>
+🚀 **Aspiring AI Specialist** focused on scalable and efficient solutions<br>
+🌍 **Based in Grimstad, Norway**, currently seeking summer job opportunities<br>
+📫 **Contact:** [sivertespelandhusebo@gmail.com](mailto:sivertespelandhusebo@gmail.com)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sivert Espeland Husebø) 
